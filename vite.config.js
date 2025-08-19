@@ -6,7 +6,7 @@ export default defineConfig({
   base: './',
   build: {
     rollupOptions: {
-      external: ['react-redux']
+    //  external: ['react-redux']
       
     }
   }
